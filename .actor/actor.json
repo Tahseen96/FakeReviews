@@ -1,0 +1,11 @@
+{
+	"actorSpecification": 1,
+	"name": "ReviewAutomation",
+	"title": "Project Puppeteer Automation",
+	"description": "This actor generate fake reviews for the product using review.io",
+	"version": "0.0",
+	"meta": {
+		"templateId": "js-crawlee-puppeteer-chrome"
+	},
+	"dockerfile": "./Dockerfile"
+}
