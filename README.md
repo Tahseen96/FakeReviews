@@ -36,8 +36,8 @@ The script performs the following operations:
 
 ```bash
 # Clone the repository:
-git clone [repository_link]
-cd [repository_name]
+git clone https://github.com/Tahseen96/FakeReviews.git
+cd FakeReviews
 
 # Install dependencies:
 npm install
@@ -50,7 +50,7 @@ npm install
 
 ```bash
 # To run the script:
-node [script_name].js
+apify run
 ```
 
 3. Upon completion, review the default key-value store for the captured screenshot.
